@@ -6,15 +6,15 @@ url: "https://andeanvegan.com/"
 baseurl:
 google_analytics_key:
 newsletter_action:
-disqus_shortname:
+disqus_shortname: andean-vegan
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Food blog template for Jekyll.
 author:
   name: Stephen Benjamin
-  email: stephen@andeanvegan.com 
-  twitter: stbenjam 
+  email: stephen@andeanvegan.com
+  twitter: stbenjam
 social:
   name: Treat Template
   links:
