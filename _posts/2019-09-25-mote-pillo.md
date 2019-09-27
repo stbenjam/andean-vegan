@@ -1,6 +1,7 @@
 ---
 date: 2019-09-25
 title: Mote Pillo
+comments: true
 categories:
   - Breakfast
 featured_image: /images/motepillo.jpg
