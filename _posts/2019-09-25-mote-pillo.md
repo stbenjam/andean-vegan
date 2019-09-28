@@ -19,8 +19,8 @@ recipe:
     * 1 cup mote pelado (hominy)
     * 1/2 tsp. black pepper
     * 1 tsp. turmeric
-    * 1 tsp. black salt (kala namak)*
-    * 1 tsp. achiote (annatto)*
+    * 1 tsp. [black salt](https://www.amazon.com/gp/product/B00QWRBVV2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRBVV2&linkCode=as2&tag=andeanvegan-20&linkId=567eed43a0cf21945de7d0fba3855c3b) (kala namak)*
+    * 1 tsp. [achiote](https://www.amazon.com/gp/product/B01DKQUNWU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DKQUNWU&linkCode=as2&tag=andeanvegan-20&linkId=d7c3f67a5e99d82514a9cdb81f806823) (annatto)*
     * salt and pepper to taste
 
   directions_markdown: |-
